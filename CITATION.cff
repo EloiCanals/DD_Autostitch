@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Canals Pascual
+  given-names: Eloi
+- family-names: Masjedi
+  given-names: Hamidreza
+title: Autostitch v1.0.0
+version: v1.0.0
+date-released: 2025-06-06
